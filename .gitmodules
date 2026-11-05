@@ -1,4 +1,4 @@
 [submodule "src/Emulator/Cores/tlib"]
 	path = src/Emulator/Cores/tlib
 	url = https://github.com/HardwareFuzz/tlib.git
-	branch = fix/validated-20261105
+	branch = fix/minimal/renode-005
