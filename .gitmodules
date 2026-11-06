@@ -1,4 +1,3 @@
 [submodule "src/Emulator/Cores/tlib"]
 	path = src/Emulator/Cores/tlib
 	url = https://github.com/HardwareFuzz/tlib.git
-	branch = fix/renode-fp64-to-fp16
